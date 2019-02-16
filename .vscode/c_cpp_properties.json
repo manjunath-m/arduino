@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\u0154784\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\u0154784\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.1\\**",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/FastLED/**",
+                "C:\\D\\workspace\\auduino\\arduino-esp32\\tools\\sdk\\include\\**",
+                "C:\\D\\workspace\\auduino\\arduino-esp32\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
